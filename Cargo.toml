@@ -1,0 +1,12 @@
+[package]
+name = "btt"
+version = "0.1.0"
+authors = ["yasinaktimur <yasinaktimur@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "2"
+actix-rt = "1"
+zksnark = "0.0.2"
